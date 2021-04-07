@@ -29,6 +29,7 @@ Try to complete as many as you can. Aim for the Bat Belt!
 * [filter](https://underscorejs.org/#filter)
 * [find](https://underscorejs.org/#find)
 * [random](https://underscorejs.org/#random)
+  * hint: use a combo of `Math.random` and `Math.floor`
 * [range](https://underscorejs.org/#range)
 
 ### Robin
